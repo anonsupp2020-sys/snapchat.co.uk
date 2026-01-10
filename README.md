@@ -12,7 +12,7 @@ If you enjoy my work or find my projects helpful, consider supporting me:
 
 
 ![faviconV2](https://github.com/user-attachments/assets/be9f2799-650a-4e93-bee4-4a0a6117fd36)
-# Snapchat Login Page Clone 2025 Latest
+# Snapchat Login Page Clone 2026 Latest
 
 
 A responsive replica of Snapchat's login screen built using **HTML**, **CSS**, and **JavaScript**. This project is designed for front-end practice and UI/UX design showcase.  
